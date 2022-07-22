@@ -1,2 +1,3 @@
 dodano test
 dodan github tekst
+dodan tekst u linuxu
