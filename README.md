@@ -8,3 +8,4 @@ The Value Momentum is academic paper by ..........
 
 # Neural network idea
 
+Looking at the $f(x)=2x$
